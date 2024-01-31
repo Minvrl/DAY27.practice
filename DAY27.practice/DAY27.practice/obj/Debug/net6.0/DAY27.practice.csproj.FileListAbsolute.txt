@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\bin\Debug\net6.0\DAY27.practice.exe
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\bin\Debug\net6.0\DAY27.practice.deps.json
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\bin\Debug\net6.0\DAY27.practice.runtimeconfig.json
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\bin\Debug\net6.0\DAY27.practice.dll
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\bin\Debug\net6.0\DAY27.practice.pdb
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.AssemblyInfo.cs
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.dll
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\refint\DAY27.practice.dll
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.pdb
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\DAY27.practice.genruntimeconfig.cache
+C:\Users\Comp\source\repos\DAY27.practice\DAY27.practice\obj\Debug\net6.0\ref\DAY27.practice.dll
